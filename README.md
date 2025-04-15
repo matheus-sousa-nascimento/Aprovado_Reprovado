@@ -9,3 +9,8 @@ O programa solicita ao usuário para inserir uma nota inteira. Dependendo da not
 - **Aprovado**: Se a nota for maior que 6 e menor ou igual a 10.
 - **Reprovado**: Se a nota for entre 0 e 6, inclusive.
 - **Inválido**: Caso a nota seja fora do intervalo de 0 a 10.
+## Como Rodar o Projeto
+
+1. Certifique-se de que você tenha o [Java](https://www.oracle.com/java/technologies/javase-jdk11-downloads.html) instalado em sua máquina.
+   
+2. Baixe o arquivo ou clone o repositório
